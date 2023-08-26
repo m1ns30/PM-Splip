@@ -1,0 +1,11 @@
+name: MiniGame
+main: MiniGame\MiniGame
+author: Minseo
+version: 1.0.0
+api: 5.0.0
+
+permissions:
+  minigame.op:
+    default: op
+  minigame.user:
+    default: true
